@@ -1,2 +1,2 @@
 # GitHub-Collab
-This is a repo for the exploring resolving conflict
+This is a repo for exploring resolving conflict
